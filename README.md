@@ -48,11 +48,8 @@ Importing custom tokens into MetaMask
 
 
 
-markdown
-Copy
-Edit
-![screenshot](images/remix-deployment.png)
-🔗 Contract Address (Optional)
-You can paste your deployed contract address here, like:
+
+🔗 Contract Address 
+
 0x1234567890abcdef...
 
