@@ -46,7 +46,8 @@ Debugging contract errors and transaction failures
 
 Importing custom tokens into MetaMask
 
-
+contract link:
+https://sepolia.etherscan.io/address/0x06E97eB99CdE1964D592a9aBEb0209cD2E955da8
 
 
 🔗 Contract Address 
